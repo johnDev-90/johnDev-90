@@ -1,8 +1,12 @@
-👋 Hello! I'm Jonathan Martínez, a passionate **Fullstack Web Developer** with expertise in **HTML, CSS, JavaScript, React.js, Next.js, and TypeScript**. With 2 years of experience, I've demonstrated skills in creating dynamic, responsive, and visually appealing web applications.
+👋 Hi! I'm Jonathan Martínez, a **Fullstack Web Developer** passionate about building modern, scalable, and high-performance web applications. I combine expertise in **frontend** and **backend** development to create seamless user experiences and robust server-side solutions.
 
-I take pride in my ability to contribute to projects, whether personal or professional. I've played a key role in enhancing user experiences, optimizing website functionality, and ensuring a seamless online presence. 🚀
+✨ **Frontend:** I craft intuitive and responsive interfaces with **React.js, Next.js, TypeScript, Tailwind CSS**, and modern JavaScript, ensuring every application looks great and performs smoothly.  
 
-💻 Staying updated with the latest trends in web development, I bring a proactive and collaborative approach to every project. I'm excited about the opportunity to bring my skills to a dynamic team and contribute to innovative web development projects.
+⚡ **Backend:** I design and implement APIs and server-side logic using **Node.js, Express, JWT**, and **MySQL**, enabling secure, efficient, and maintainable systems.  
+
+🧪 **Testing & Quality:** I apply **Jest** and testing best practices to ensure reliability and maintainability of the code.  
+
+💻 **Collaboration & Tools:** Experienced with **Git, GitHub**, and agile workflows, I enjoy working closely with teams to deliver innovative solutions that meet business goals.  
 
 **Technologies & Tools:**  
 
@@ -21,5 +25,3 @@ I take pride in my ability to contribute to projects, whether personal or profes
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50">
   <img src="https://raw.githubusercontent.com/jest-community/jest-icons/master/jest.svg" alt="Testing" width="50">
 </div>
-
-
