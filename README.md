@@ -1,4 +1,3 @@
-
 👋 Hello! I'm Jonathan Martínez, a passionate **Fullstack Web Developer** with expertise in **HTML, CSS, JavaScript, React.js, Next.js, and TypeScript**. With 2 years of experience, I've demonstrated skills in creating dynamic, responsive, and visually appealing web applications.
 
 I take pride in my ability to contribute to projects, whether personal or professional. I've played a key role in enhancing user experiences, optimizing website functionality, and ensuring a seamless online presence. 🚀
@@ -17,10 +16,10 @@ I take pride in my ability to contribute to projects, whether personal or profes
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Jest_logo.svg" alt="Jest" width="50">
+  <img src="https://raw.githubusercontent.com/jest-community/jest-icons/master/jest.svg" alt="Jest" width="50">
 </div>
 
 
