@@ -17,9 +17,10 @@ I take pride in my ability to contribute to projects, whether personal or profes
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" style="filter: invert(1);">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50">
   <img src="https://raw.githubusercontent.com/jest-community/jest-icons/master/jest.svg" alt="Jest" width="50">
+  <img src="https://raw.githubusercontent.com/testing-library/logo/main/React%20Testing%20Library/RTL.png" alt="React Testing Library" width="50">
 </div>
 
 
